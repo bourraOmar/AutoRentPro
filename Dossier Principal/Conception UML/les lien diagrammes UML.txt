@@ -1,8 +1,0 @@
-Diagrammes UML:
-
-  Use Case: 
-  https://lucid.app/lucidchart/5054a7ee-1d5a-4b48-be42-ddc0dc47a059/edit?viewport_loc=-1494%2C-158%2C4068%2C2004%2C0_0&invitationId=inv_b5e21230-ce15-4200-82be-7161debe1c37
-	
-  
-  Classe: 
-  https://lucid.app/lucidchart/312e210c-5714-4aac-8731-dda029f8fb75/edit?viewport_loc=-711%2C-448%2C1973%2C971%2CHWEp-vi-RSFO&invitationId=inv_0601df3c-0dda-464d-83cd-5a9677d97756
